@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>attributecarrier</name>
+	<displayName><![CDATA[Transport selon les d&eacute;clinaisons]]></displayName>
+	<version><![CDATA[2.0]]></version>
+	<description><![CDATA[Configurer les frais d&#039;exp&eacute;dition en fonction de plusieurs attributs]]></description>
+	<author><![CDATA[Pixels]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

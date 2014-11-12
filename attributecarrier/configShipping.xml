@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<serviceAttributeCarier>
+	<service>
+		<name>Attributes Carrier</name>
+		<description>Configure multiple shipping fees depending on attributes</description>
+		<descriptionfr>Configurer plusieurs frais de livraisons selon les déclinaisons</descriptionfr>
+		<menuadmin>Attributes Carrier</menuadmin>
+		<menuadminfr>Transport et déclinaisons</menuadminfr>
+	</service>
+</serviceAttributeCarier>
